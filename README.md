@@ -34,7 +34,7 @@ Fork Safemoon Protocol to create basic "AriesCode" token with a fixed supply mec
 
 ## Testnet Binance Smart Chain verification
 
-* [Migration Contract Address](https://testnet.bscscan.com/address/0x0142b42e5778bdC28d160C07aFaa84b340BAa374#contracts)
+
 * [Safemoon Protocol Fork: AriesCode Contract Address](https://testnet.bscscan.com/address/0x2933D4aA5335FfA4F7C46B0Af8DFA3658938CEF4#contracts)
 * [Token contract Address](https://testnet.bscscan.com/address/0x513263A551425FF137dAa18F96948cE95636B9D8#contracts)
 
